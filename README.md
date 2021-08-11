@@ -8,8 +8,6 @@ Carne | Cerveja | Refrigerante/Água
 :-------: | :------: | :------:
 500G p/ pessoa |1200Ml p/ pessoa |1000Ml p/ pessoa
 Acima de 6H - 650G p/ pessoa | Acima de 6H - 2000Ml p/ pessoa  | Acima de 6H - 2000Ml p/ pessoa
-Crianças valem por 0.5		
-
 
 ### 🛠 Tecnologias
 
