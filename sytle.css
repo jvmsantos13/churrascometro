@@ -1,0 +1,21 @@
+.container {
+    max-width: 300px;
+    margin: auto;
+    background-color: rgb(150, 236, 208);
+    padding: 20px;
+    border-radius: 2px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+h1 {
+    margin-top: 0;
+    text-align: center;
+}
+
+input {
+    display: block;
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
