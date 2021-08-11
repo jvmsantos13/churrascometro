@@ -2,11 +2,6 @@ h1, h2 {
     margin-top: 0;
 }
 
-p {
-    font-family: 'Noto Sans JP', sans-serif;
-    
-}
-
 input {
     display: block;
     width: 100%;
@@ -33,7 +28,7 @@ button {
 .container {
     max-width: 300px;
     margin: auto;
-    margin-top: 50px;
+    margin-top: 25px;
     background-color: rgb(151, 190, 248);
     padding: 20px;
     border-radius: 4px;
