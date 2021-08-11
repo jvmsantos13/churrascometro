@@ -1,3 +1,8 @@
+body {
+    background-image: url(img/fundo.jpg);
+
+}
+
 h1, h2 {
     margin-top: 0;
 }
@@ -23,7 +28,7 @@ button {
 .regras {
     max-width: 350px;
     margin: auto;
-    background-color: rgb(151, 190, 248);
+    background-color: rgb(201, 221, 250);
     padding: 20px;
     border-radius: 4px;
     font-family: 'Noto Sans JP', sans-serif;
@@ -33,7 +38,7 @@ button {
     max-width: 350px;
     margin: auto;
     margin-top: 25px;
-    background-color: rgb(151, 190, 248);
+    background-color: rgb(201, 221, 250);
     padding: 20px;
     border-radius: 4px;
     font-family: 'Noto Sans JP', sans-serif;
