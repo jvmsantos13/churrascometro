@@ -2,6 +2,10 @@ h1, h2 {
     margin-top: 0;
 }
 
+p {
+    text-align: justify;
+}
+
 input {
     display: block;
     width: 100%;
