@@ -24,7 +24,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 *Link do projeto:* -
 
 ![](-)
-
 ## Autor
 João Victor Monteiro <br />
 https://www.linkedin.com/in/jvmsantos/
