@@ -1,13 +1,13 @@
 ## Churrascômentro
 
-<p align="center">Programa que utilizo HTML, CSS e Javascript e nele calculo a quantidade de carne e bebidas necessária para um churrasco, baseada com quantidade de pessoas e a duração.</p>
+<p align="center">Programa que utilizo HTML, CSS e Javascript e nele calculo a quantidade de carne e bebidas necessária para um churrasco, baseada com quantidade de pessoas e a duração. Desafio proposto no curso do ProgramadorBr.</p>
 
 *Obs:* Crianças valem por 0.5 (meia pessoa)
 
-Carne | Cerveja | Refrigerante/Água
+Carne | Cerveja | Refrigerante/Água | Sorvete
 :-------: | :------: | :------:
-500G p/ pessoa |1200Ml p/ pessoa |1000Ml p/ pessoa
-Acima de 6H - 650G p/ pessoa | Acima de 6H - 2000Ml p/ pessoa  | Acima de 6H - 2000Ml p/ pessoa
+500G p/ pessoa |1200Ml p/ pessoa |1000Ml p/ pessoa |250Ml p/ pessoa
+Acima de 6H - 650G p/ pessoa | Acima de 6H - 2000Ml p/ pessoa  | Acima de 6H - 2000Ml p/ pessoa  | Acima de 6H - 400Ml p/ pessoa
 
 ### 🛠 Tecnologias
 
