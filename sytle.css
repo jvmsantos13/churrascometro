@@ -17,7 +17,7 @@ button {
 }
 
 .regras {
-    max-width: 300px;
+    max-width: 350px;
     margin: auto;
     background-color: rgb(151, 190, 248);
     padding: 20px;
@@ -26,7 +26,7 @@ button {
 }
 
 .container {
-    max-width: 300px;
+    max-width: 350px;
     margin: auto;
     margin-top: 25px;
     background-color: rgb(151, 190, 248);
