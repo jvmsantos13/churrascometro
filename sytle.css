@@ -1,6 +1,5 @@
 h1 {
     margin-top: 0;
-    text-align: center;
 }
 
 input {
@@ -22,7 +21,7 @@ button {
     margin: auto;
     background-color: rgb(150, 236, 208);
     padding: 20px;
-    border-radius: 2px;
+    border-radius: 4px;
     font-family: 'Noto Sans JP', sans-serif;
     text-align: center;
 }
