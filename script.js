@@ -20,9 +20,9 @@ function calcular () {
     let totalCerveja = (cerveja * adultos);
     let totalBebida = (bebida * adultos) + ((bebida / 2) * criancas);
 
-    resultado.innerHTML = `<p>${totalCarne/1000}kg de Carne</p>`;
-    resultado.innerHTML += `<p>${totalCerveja/1000}L de Cerveja</p>`;
-    resultado.innerHTML += `<p>${totalBebida/1000}L de Refrigente e Água</p>`;
+    resultado.innerHTML = `<p>${totalCarne/1000} Kg de Carne.</p>`;
+    resultado.innerHTML += `<p>${totalCerveja/1000} L de Cerveja.</p>`;
+    resultado.innerHTML += `<p>${totalBebida/1000} L de Refrigente e Água.</p>`;
 }
 
 function carnePP (duracao) {
