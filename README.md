@@ -21,7 +21,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 	:construction: Projeto em desenvolvimento:construction:
 </h4>
 
-*Link do projeto:* -
+*Link do projeto:* https://jvmsantos13.github.io/Churrascometro/
 
 ![](-)
 ## Autor
