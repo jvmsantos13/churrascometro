@@ -1,6 +1,6 @@
 ## Churrascômentro
 
-<p align="center">Programa que utilizo HTML, CSS e Javascript e nele calculamos a quantidade de carne, bebida necessária para um churrasco, baseada com quantidade de pessoas e a duração.</p>
+<p align="center">Programa que utilizo HTML, CSS e Javascript e nele calculo a quantidade de carne e bebidas necessária para um churrasco, baseada com quantidade de pessoas e a duração.</p>
 
 *Obs:* Crianças valem por 0.5 (meia pessoa)
 
