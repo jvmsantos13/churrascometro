@@ -18,12 +18,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Javascript
 
 <h4 align="center"> 
-	:construction: Projeto em desenvolvimento:construction:
+	:computer: Projeto concluído :heavy_check_mark:
 </h4>
 
 *Link do projeto:* https://jvmsantos13.github.io/Churrascometro/
 
-![](-)
+![](img/gifanimado.gif)
 ## Autor
 João Victor Monteiro <br />
 https://www.linkedin.com/in/jvmsantos/
